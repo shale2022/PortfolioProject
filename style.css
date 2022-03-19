@@ -13,7 +13,6 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin-top: 225px;
 }
 .image-header {
     height: 300px;
@@ -21,4 +20,13 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
 .logo {
     height: 200px;
     justify-content: left;
+}
+
+.w3-content {
+    margin-left: -20px;
+    margin-right: 0;
+}
+
+.w-3-button {
+    
 }
