@@ -1,17 +1,24 @@
 .w3-sidebar a {font-family: "Roboto", sans-serif}
 body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
 .subscribe-background {
-    background-color: red !important;
+    background-image:  red !important;
 }
 .img-height {
     height: 200px;
 }
 .word-height {
-    height: 15px;
+    height: 25px;
 }
 .product-container{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     margin-top: 225px;
+}
+.image-header {
+    height: 300px;
+}
+.logo {
+    height: 200px;
+    justify-content: left;
 }
